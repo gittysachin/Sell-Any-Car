@@ -173,7 +173,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`name`, `email`, `password`, `mobile`, `occupation`, `bio`, `status`) VALUES
-('Sachin Jangid', 'sachinjangid832@gmail.com', 'sachin123', '+1 652 345 3222 11', 'Senior SDE at AMAZON', 'Just doing my best and I will explore the world very soon', 1),
+('Sachin Jangid', 'sachinjangid8@gmail.com', 'sachin123', '+1 652 345 3222 11', 'Senior SDE at AMAZON', 'Just doing my best and I will explore the world very soon', 1),
 ('Mahaveer', 'sachin@gmail.com', 'sachin123', '+1 652 345 3222 11', 'Senior SDE at AMAZON', 'Just doing my best and I will explore the world very soon', 1),
 ('vaibtech', 'fa@g.com', 'vaib', '+1 652 345 3222 11', 'Senior SDE at AMAZON', 'Just doing my best and I will explore the world very soon', 1),
 ('Maria Fernandes', 'mymaria@gmail.com', 'maria123', '+1 652 345 3222 11', 'Senior SDE at AMAZON', 'Just doing my best and I will explore the world very soon', 1);
