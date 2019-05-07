@@ -1,0 +1,9 @@
+<?php 
+	if(isset($_COOKIE["admin"])){
+		setcookie("admin","",time()-1);
+		header("location:admin.php?out=1");
+	}
+	else{
+		header("location:admin.php?noout=1");
+	}
+ ?>

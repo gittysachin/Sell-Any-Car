@@ -1,0 +1,8 @@
+[09-Feb-2019 10:16:27 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/codyzed/public_html/Sell Any Car/admin/db.php on line 2
+[09-Feb-2019 10:16:27 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/codyzed/public_html/Sell Any Car/admin/db.php on line 3
+[09-Feb-2019 10:16:27 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/codyzed/public_html/Sell Any Car/admin/check.php on line 6
+[09-Feb-2019 10:16:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codyzed/public_html/Sell Any Car/admin/check.php on line 7
+[09-Feb-2019 10:48:11 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/codyzed/public_html/Sell Any Car/admin/db.php on line 2
+[09-Feb-2019 10:48:11 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/codyzed/public_html/Sell Any Car/admin/db.php on line 3
+[09-Feb-2019 10:48:11 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/codyzed/public_html/Sell Any Car/admin/check.php on line 6
+[09-Feb-2019 10:48:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codyzed/public_html/Sell Any Car/admin/check.php on line 7
